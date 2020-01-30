@@ -6,6 +6,9 @@ _(none)_
 
 ---
 
+## 1.4.0 (2020-01-29)
+* Upgrade to pulumi-terraform-bridge v1.6.4
+
 ## 1.3.0 (2020-01-02)
 * Upgrade to pulumi-terraform-bridge v1.5.2
 
